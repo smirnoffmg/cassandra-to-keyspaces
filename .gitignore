@@ -298,3 +298,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,python,pycharm+all,visualstudiocode
+requirements.in
+dev-requirements.in
+dev-requirements.txt
+config.ini

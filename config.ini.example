@@ -1,0 +1,10 @@
+[keyspaces]
+cluster_url=
+username=
+password=
+cert_path=sf-class2-root.crt
+
+[cassandra]
+cluster_url=
+username=
+password=
