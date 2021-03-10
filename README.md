@@ -5,7 +5,7 @@ Python script for migrating Cassandra DB to AWS Keyspaces
 
 1) Install requirements `pip install requirements.txt`
 2) Put your credentials into `config.ini`
-3) Run `./main.py --keypspace={KEYSPACE_TO_MIGRATE}`
+3) Run `./main.py --keyspace={KEYSPACE_TO_MIGRATE}`
 
 All logs by default will go to `replication.log` - watch it.
 
